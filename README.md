@@ -19,7 +19,7 @@
 | **P05**      | profit: 858 | profit: 900        | profit: 900 | profit: 900 | profit: 900 |
 |              | weight: 97  | weight: 104        | weight: 104 | weight: 104 | weight: 104 |
 | **P06**      | profit: 1478| profit: 1735       | profit: 1735| profit: 1735| profit: 1735|
-|              | weight: 140 | weight: 1169       | weight: 1169| weight: 1169| weight: 1169|
+|              | weight: 140 | weight: 169        | weight: 169 | weight: 169 | weight: 169 |
 | **P07**      | profit: 1441| profit: 1458       | profit: 1458| profit: 1458| profit: 1458|
 |              | weight: 740 | weight: 749        | weight: 749 | weight: 749 | weight: 749 |
 
